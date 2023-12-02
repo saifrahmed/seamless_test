@@ -1,0 +1,5 @@
+protobuf
+jupyter
+git+https://github.com/huggingface/transformers.git 
+sentencepiece
+
